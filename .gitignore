@@ -1,4 +1,5 @@
 /git
+!/git/hooks/post-update
 /node_modules
 /code
 /code.old
